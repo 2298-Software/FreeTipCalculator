@@ -1,3 +1,3 @@
 # FreeTipCalculator
 
-Free android with minimum permissioms to calculate tips.
+Free android app with minimum permissioms to calculate tips.
